@@ -1,0 +1,61 @@
+{
+  "animals": [
+    {
+      "name": "Lion",
+      "scientificName": "Panthera leo",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+          "credit": "Wikimedia Commons (Yathin S Krishnappa)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Lion_waiting_in_Namibia_%28cropped%29.jpg",
+          "credit": "Wikimedia Commons (Yathin S Krishnappa)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Lioness_%28Panthera_leo%29_2.jpg",
+          "credit": "Wikimedia Commons (Hans Hillewaert)"
+        }
+      ],
+      "fact": "A lion\u2019s roar can be heard from as far as 8 kilometers away."
+    },
+    {
+      "name": "Tiger",
+      "scientificName": "Panthera tigris",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg",
+          "credit": "Wikimedia Commons (Mathias Appel)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tigress_at_Jim_Corbett_National_Park.jpg",
+          "credit": "Wikimedia Commons (Sumeet Moghe)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tiger_in_Ranthambhore.jpg",
+          "credit": "Wikimedia Commons (Charles James Sharp)"
+        }
+      ],
+      "fact": "Tigers are the largest wild cats in the world."
+    },
+    {
+      "name": "Bear",
+      "scientificName": "Ursidae (family)",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/2010-kodiak-bear-1.jpg",
+          "credit": "Wikimedia Commons (Frank Kovalchek)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Polar_Bear_-_Alaska.jpg",
+          "credit": "Wikimedia Commons (Alan Wilson)"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brown_bear_%28Ursus_arctos_arctos%29_running.jpg",
+          "credit": "Wikimedia Commons (Ren\u00e9 Hourdry)"
+        }
+      ],
+      "fact": "Bears have an excellent sense of smell\u2014better than dogs or possibly any other mammal."
+    }
+  ]
+}
